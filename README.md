@@ -4,8 +4,9 @@ Please have a look at my [portfolio](https://szabolcs-devecseri.vercel.app/).
 ### 🏁 _I don't stop until I find a solution._
 
 - I am a career changer from structural engineering🌉 to software development 💻
-- :baby: I’m currently enjoying my time as a fresh dad, while
-- :computer: looking for a software developer job.
+- 📖 I’m currently working on a Full Stack MERN application.
+- :baby: Meanwhile, I'm enjoying my time as a fresh dad and
+- :office: looking for a software developer job.
 - I am always looking for an elegant solution. 👔 
 ### 📫 Get in touch:
 
