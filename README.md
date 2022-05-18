@@ -4,7 +4,7 @@ Please have a look at my [portfolio](https://szabolcs-devecseri.vercel.app/).
 ### 🏁 _I don't stop until I find a solution._
 
 - I am a career changer from structural engineering🌉 to software development 💻
-- 📖 I’m currently working on a JS-Quiz app.
+- 📖 I’m currently working on a quiz app.
 - :baby: Meanwhile, I'm enjoying my time as a fresh dad and
 - :office: looking for a software developer job.
 - I am always looking for an elegant solution. 👔 
