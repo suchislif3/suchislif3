@@ -1,21 +1,19 @@
 # 👋 Hi, I’m Szabolcs Devecseri,
 ## a motivated junior software developer.🙂
-Please have a look at my [portfolio](https://szabolcs-devecseri.vercel.app/).
 ### 🏁 _I don't stop until I find a solution._
 
 - I am a career changer from structural engineering🌉 to software development 💻
-- 📖 I’m currently working on a quiz app.
-- :baby: Meanwhile, I'm enjoying my time as a fresh dad and
-- :office: looking for a software developer job.
-- I am always looking for an elegant solution. 👔 
+- :office: I’m currently looking for a developer job.
+- 📖 Meanwhile, I keep learning and making my own projects, please have a look at my continuously expanding [portfolio](https://szabolcs-devecseri.vercel.app/).
+- :baby: I'm also enjoying my time as a fresh dad.
+
 ### 📫 Get in touch:
-
-
 
 <a href="https://linkedin.com/in/szabolcs-devecseri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="szabolcs-devecseri" height="30" width="40" /></a>
 <a href="https://twitter.com/SDevecseri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SDevecseri" height="30" width="40" /></a>
 
 ### 🧰 Languages and Tools:
+
 <p>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
