@@ -5,7 +5,6 @@
 - I am a career changer from structural engineering🌉 to software development 💻
 - :office: I’m currently looking for a developer job.
 - 📖 Meanwhile, I keep learning and making my own projects, please have a look at my continuously expanding [portfolio](https://szabolcs-devecseri.vercel.app/).
-- :baby: I'm also enjoying my time as a fresh dad.
 
 ### 📫 Get in touch:
 
