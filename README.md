@@ -1,10 +1,9 @@
 # 👋 Hi, I’m Szabolcs Devecseri,
-## a motivated junior software developer.🙂
+## a motivated software developer.🙂
 ### 🏁 _I don't stop until I find a solution._
 
 - I am a career changer from structural engineering🌉 to software development 💻
-- :office: I’m currently looking for a developer job.
-- 📖 Meanwhile, I keep learning and making my own projects, please have a look at my continuously expanding [portfolio](https://szabolcs-devecseri.vercel.app/).
+- I always keep learning and making my own projects, please have a look at my continuously expanding [portfolio](https://szabolcs-devecseri.vercel.app/).
 
 ### 📫 Get in touch:
 
